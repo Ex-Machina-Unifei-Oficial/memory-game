@@ -31,8 +31,8 @@ Demonstração:
 * adicionar/remover classes de elemento
 * adicionar/remover ouvintes de eventos
 * timeout (temporizador)
-* html5: data-attribute (atributo de dados)
-* css3: posicionamento, `flexbox`, transições
+* HTML5: data-attribute (atributo de dados)
+* CSS3: posicionamento, `flexbox`, transições
 
 ## Material para consulta e estudo
 
