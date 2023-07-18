@@ -16,7 +16,7 @@ Conceitos importantes:
 * html5: data-attribute (atributo de dados)
 * css3: posicionamento, `flexbox`, transições
 ---
-💚 [Exercícios](https://exercism.org/tracks/javascript/exercises)
+💚 [Exercícios](https://exercism.org/tracks/javascript/exercises)\
 💙 [Playlist JavaScript, HTML e CSS](https://youtube.com/playlist?list=PLPjSrtKJfMyfDem5WcuE0_njkILHFXCpH)
 
 ---
