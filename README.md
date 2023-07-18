@@ -36,11 +36,12 @@ Demonstração:
 ## Material para consulta e estudo
 
 💙 [Playlist](https://youtube.com/playlist?list=PLPjSrtKJfMyfDem5WcuE0_njkILHFXCpH)
-💚 [Exercícios de JS](https://exercism.org/tracks/javascript/exercises)\
+
+💚 [Exercícios de JS](https://exercism.org/tracks/javascript/exercises)
 
 Caso necessário também consulte o material disponível na capacitação de HTML/CSS ou no card de estudos no Trello
 
 ## Observação importante
 
-Esse projeto não foi desenvolvido pela equipe do Ex Machina e se trata de uma adaptação de outro desenvolvedor (de fácil acesso). Solicitamos que não copiem o código e que realmente tentem fazer, para terem um melhor aprendizado. Caso tenha dificuldade entre em contato <3
+Esse projeto não foi desenvolvido pela equipe do Ex Machina e se trata de uma adaptação de outra desenvolvedora (de fácil acesso). Solicitamos que não copiem o código e que realmente tentem fazer, para terem um melhor aprendizado. Caso tenha dificuldade entre em contato <3
 
