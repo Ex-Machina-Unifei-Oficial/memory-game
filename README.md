@@ -36,7 +36,7 @@ Demonstração:
 
 ## Material para consulta e estudo
 
-💙 [Playlist](https://youtube.com/playlist?list=PLPjSrtKJfMyfDem5WcuE0_njkILHFXCpH)
+💙 [Playlist JavaScript, HTML e CSS](https://youtube.com/playlist?list=PLPjSrtKJfMyfDem5WcuE0_njkILHFXCpH)
 
 💚 [Exercícios de JS](https://exercism.org/tracks/javascript/exercises)
 
