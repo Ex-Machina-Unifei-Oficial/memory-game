@@ -1,6 +1,6 @@
-## Jogo da Memória em Vanilla JavaScript
+# Jogo da Memória em Vanilla JavaScript
 
-# Introdução de conceitos básicos de HTML5, CSS3 e JavaScript puro.
+## Introdução de conceitos básicos de HTML5, CSS3 e JavaScript puro.
 
 Projeto desenvolvido para a capacitação de JavaScript.
 
