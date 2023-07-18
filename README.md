@@ -33,7 +33,7 @@ Demonstração:
 * html5: data-attribute (atributo de dados)
 * css3: posicionamento, `flexbox`, transições
 
-# Material para consulta e estudo
+## Material para consulta e estudo
 
 💙 [Playlist](https://youtube.com/playlist?list=PLPjSrtKJfMyfDem5WcuE0_njkILHFXCpH)
 💚 [Exercícios de JS](https://exercism.org/tracks/javascript/exercises)\
