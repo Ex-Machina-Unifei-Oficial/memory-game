@@ -22,6 +22,7 @@ Demonstração:
   * Algum tipo de resposta, a critério do desenvolvedor, deverá ser mostrada ao jogador (um alert, uma nova página, etc), juntamente com a sua pontuação, definida por menor tempo ou menor quantidade total de giros 
   * Após a confirmação da vitória as cartas deverão ser reembaralhadas para jogar novamente
   * OPCIONAL: implementar um leaderboard com o nome dos jogadores
+* Sinta-se livre para alterar o que achar conveniente, mas explique a intenção
 
 ## Conceitos importantes:
 
